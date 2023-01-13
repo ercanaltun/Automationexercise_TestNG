@@ -6,6 +6,7 @@ import utilities.Driver;
 public class Auto {
 
     public Auto(){
+
         PageFactory.initElements(Driver.getDriver(),this);
     }
 
