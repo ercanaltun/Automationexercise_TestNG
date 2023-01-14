@@ -3,40 +3,13 @@ package pages;
 import org.openqa.selenium.support.PageFactory;
 import utilities.Driver;
 
-public class Auto {
+public class Nihat {
 
-    public Auto(){
+    public Nihat(){
 
         PageFactory.initElements(Driver.getDriver(),this);
+
     }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
