@@ -5,12 +5,28 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="51dfb9cc-4a52-4260-a91f-3e2af50a5306" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/pages/Hatem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/pages/Nihat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/pages/Selçuk.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/tests/UITests/us01_RegisterUser/Register.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/tests/UITests/us02_LoginUser/ErcanBeforeMethod.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/tests/UITests/us02_LoginUser/NegativeTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/tests/UITests/us02_LoginUser/PositiveTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/pages/Auto.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/pages/Ercan.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -25,12 +41,13 @@
   <component name="ProjectViewState">
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\Hewlett Packard\Automationexercise_TestNG" />
