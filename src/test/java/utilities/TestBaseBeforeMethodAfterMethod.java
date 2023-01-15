@@ -17,29 +17,28 @@ public abstract class TestBaseBeforeMethodAfterMethod {
 
     protected WebDriver driver;
     protected Actions action;
-    protected  String tarih;
+    protected String tarih;
     protected Faker faker;
     protected SoftAssert softAssert;
 
-    @BeforeMethod(groups = "gp1")
-    public void seTup(){
-         faker=new Faker();
+    @BeforeMethod()
+    public void seTup() {
+        faker = new Faker();
         WebDriverManager.chromedriver().setup();
-        driver=new ChromeDriver();
-        action=new Actions(driver);
-        softAssert=new SoftAssert();
+        driver = new ChromeDriver();
+        action = new Actions(driver);
+        softAssert = new SoftAssert();
         driver.manage().window().maximize();
         driver.manage().timeouts().implicitlyWait(Duration.ofSeconds(15));
-        LocalDateTime date=LocalDateTime.now();
-        DateTimeFormatter formater=DateTimeFormatter.ofPattern("YYMMddHHmmss");
-        tarih=date.format(formater);
+        LocalDateTime date = LocalDateTime.now();
+        DateTimeFormatter formater = DateTimeFormatter.ofPattern("YYMMddHHmmss");
+        tarih = date.format(formater);
 
     }
 
-    @AfterMethod(groups = "gp1")
-    public  void tearDown(){
+    @AfterMethod()
+    public void tearDown() {
 
 
-
-
+    }
 }
