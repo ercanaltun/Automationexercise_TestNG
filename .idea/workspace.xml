@@ -30,15 +30,17 @@
   <component name="ProjectViewState">
     <option name="showLibraryContents" value="true" />
   </component>
-
   }
 }</component>
   <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="tests.UITests.us01_RegisterUser" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\Hewlett Packard\Automationexercise_TestNG" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="TestNG.Register">
     <configuration default="true" type="JetRunConfigurationType">
       <method v="2">
         <option name="Make" enabled="true" />
@@ -50,6 +52,66 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Register" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="comBatch81TestNG" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tests.UITests.us01_RegisterUser.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="tests.UITests.us01_RegisterUser" />
+      <option name="MAIN_CLASS_NAME" value="tests.UITests.us01_RegisterUser.Register" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Register.TC01" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="comBatch81TestNG" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tests.UITests.us01_RegisterUser.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="tests.UITests.us01_RegisterUser" />
+      <option name="MAIN_CLASS_NAME" value="tests.UITests.us01_RegisterUser.Register" />
+      <option name="METHOD_NAME" value="TC01" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Register.TC02" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="comBatch81TestNG" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tests.UITests.us01_RegisterUser.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="tests.UITests.us01_RegisterUser" />
+      <option name="MAIN_CLASS_NAME" value="tests.UITests.us01_RegisterUser.Register" />
+      <option name="METHOD_NAME" value="TC02" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.Register" />
+        <item itemvalue="TestNG.Register.TC01" />
+        <item itemvalue="TestNG.Register.TC02" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
