@@ -38,7 +38,8 @@ public abstract class TestBaseBeforeMethodAfterMethod {
 
     @AfterMethod(groups = "gp1")
     public  void tearDown(){
-       driver.quit();
+
+        //driver.quit();
     }
 
 
