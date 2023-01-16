@@ -16,7 +16,7 @@ import java.time.format.DateTimeFormatter;
 public abstract class TestBaseBeforeMethodAfterMethod {
 
     protected WebDriver driver;
-    protected Actions action;
+    public Actions action;
     protected String tarih;
     protected Faker faker;
     protected SoftAssert softAssert;

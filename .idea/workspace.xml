@@ -6,10 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="509dbd81-8615-4efa-87e3-bf770ce34845" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/tests/UITests/us02_LoginUser/NegativeTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/tests/UITests/us02_LoginUser/NegativeTests.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/utilities/TestBaseBeforeMethodAfterMethod.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/utilities/TestBaseBeforeMethodAfterMethod.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/tests/UITests/us02_LoginUser/NegativeTests.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/tests/UITests/us02_LoginUser/NegativeTests.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/utilities/TestBaseBeforeMethodAfterMethod.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/utilities/TestBaseBeforeMethodAfterMethod.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/utilities/TestBaseBeforeAfterClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/utilities/TestBaseBeforeAfterClass.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
