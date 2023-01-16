@@ -5,10 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="509dbd81-8615-4efa-87e3-bf770ce34845" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_14_01_23__23_06__Changes_.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_14_01_23__23_06__Changes_.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/tests/UITests/us02_LoginUser/NegativeTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/tests/UITests/us02_LoginUser/NegativeTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/configuration.properties" beforeDir="false" afterPath="$PROJECT_DIR$/configuration.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/pages/Hatem.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/pages/Hatem.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/tests/UITests/us02_LoginUser/PositiveTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/tests/UITests/us02_LoginUser/PositiveTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/utilities/TestBaseBeforeAfterClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/utilities/TestBaseBeforeAfterClass.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/utilities/TestBaseBeforeMethodAfterMethod.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/utilities/TestBaseBeforeMethodAfterMethod.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/tests/UITests/us02_LoginUser/NegativeTests.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/tests/UITests/us02_LoginUser/NegativeTests.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/pages/Hatem.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/pages/Hatem.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/tests/UITests/us02_LoginUser/PositiveTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/tests/UITests/us02_LoginUser/PositiveTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/utilities/TestBaseBeforeAfterClass.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/utilities/TestBaseBeforeAfterClass.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/test-classes/utilities/TestBaseBeforeMethodAfterMethod.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/utilities/TestBaseBeforeMethodAfterMethod.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -38,17 +44,18 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-    &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/Pc/IdeaProjects/TestNg/src/test/java/pages&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
-    }
-    }</component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "C:/Users/Pc/IdeaProjects/TestNg/src/test/java/pages",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
+  }
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\Pc\IdeaProjects\TestNg\src\test\java\pages" />
@@ -67,26 +74,7 @@
       <recent name="tests.day05" />
     </key>
   </component>
-  <component name="RunManager" selected="TestNG.NegativeTests">
-    <configuration name="C:/Users/Pc/AppData/Local/Temp/Rar$DRa6500.46519/TestNG/src/SeleniumGrid1.xml" type="TestNG" temporary="true" nameIsGenerated="true">
-      <option name="SUITE_NAME" value="$USER_HOME$/AppData/Local/Temp/Rar$DRa6500.46519/TestNG/src/SeleniumGrid1.xml" />
-      <option name="TEST_OBJECT" value="SUITE" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="C:/Users/Pc/IdeaProjects/TestNg/src/SeleniumGrid.xml" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="TestNg" />
-      <option name="SUITE_NAME" value="$PROJECT_DIR$/src/SeleniumGrid.xml" />
-      <option name="TEST_OBJECT" value="SUITE" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="TestNG.PositiveTest.PositiveTest">
     <configuration name="NegativeTests" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="Autoexercise_TestNG" />
       <extension name="coverage">
@@ -140,13 +128,48 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="PositiveTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="comBatch81TestNG" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tests.UITests.us02_LoginUser.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="tests.UITests.us02_LoginUser" />
+      <option name="MAIN_CLASS_NAME" value="tests.UITests.us02_LoginUser.PositiveTest" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PositiveTest.PositiveTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="comBatch81TestNG" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tests.UITests.us02_LoginUser.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="tests.UITests.us02_LoginUser" />
+      <option name="MAIN_CLASS_NAME" value="tests.UITests.us02_LoginUser.PositiveTest" />
+      <option name="METHOD_NAME" value="PositiveTest" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.PositiveTest.PositiveTest" />
+        <item itemvalue="TestNG.PositiveTest" />
         <item itemvalue="TestNG.NegativeTests" />
         <item itemvalue="TestNG.NegativeTests.negative3" />
         <item itemvalue="TestNG.NegativeTests.negative1" />
-        <item itemvalue="TestNG.C:/Users/Pc/IdeaProjects/TestNg/src/SeleniumGrid.xml" />
-        <item itemvalue="TestNG.C:/Users/Pc/AppData/Local/Temp/Rar$DRa6500.46519/TestNG/src/SeleniumGrid1.xml" />
       </list>
     </recent_temporary>
   </component>
