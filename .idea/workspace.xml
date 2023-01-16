@@ -4,7 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="509dbd81-8615-4efa-87e3-bf770ce34845" name="Changes" comment="" />
+    <list default="true" id="509dbd81-8615-4efa-87e3-bf770ce34845" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/tests/UITests/us02_LoginUser/NegativeTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/tests/UITests/us02_LoginUser/NegativeTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/utilities/TestBaseBeforeMethodAfterMethod.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/utilities/TestBaseBeforeMethodAfterMethod.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/tests/UITests/us02_LoginUser/NegativeTests.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/tests/UITests/us02_LoginUser/NegativeTests.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/utilities/TestBaseBeforeMethodAfterMethod.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/utilities/TestBaseBeforeMethodAfterMethod.class" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -61,7 +67,7 @@
       <recent name="tests.day05" />
     </key>
   </component>
-  <component name="RunManager" selected="TestNG.NegativeTests.negative1">
+  <component name="RunManager" selected="TestNG.NegativeTests">
     <configuration name="C:/Users/Pc/AppData/Local/Temp/Rar$DRa6500.46519/TestNG/src/SeleniumGrid1.xml" type="TestNG" temporary="true" nameIsGenerated="true">
       <option name="SUITE_NAME" value="$USER_HOME$/AppData/Local/Temp/Rar$DRa6500.46519/TestNG/src/SeleniumGrid1.xml" />
       <option name="TEST_OBJECT" value="SUITE" />
@@ -116,17 +122,17 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SeleniumGrid2.test1" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="TestNg" />
+    <configuration name="NegativeTests.negative3" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Autoexercise_TestNG" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="tests.*" />
+          <option name="PATTERN" value="tests.UITests.us02_LoginUser.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="tests" />
-      <option name="MAIN_CLASS_NAME" value="tests.SeleniumGrid2" />
-      <option name="METHOD_NAME" value="test1" />
+      <option name="PACKAGE_NAME" value="tests.UITests.us02_LoginUser" />
+      <option name="MAIN_CLASS_NAME" value="tests.UITests.us02_LoginUser.NegativeTests" />
+      <option name="METHOD_NAME" value="negative3" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -136,11 +142,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="TestNG.NegativeTests.negative1" />
         <item itemvalue="TestNG.NegativeTests" />
+        <item itemvalue="TestNG.NegativeTests.negative3" />
+        <item itemvalue="TestNG.NegativeTests.negative1" />
         <item itemvalue="TestNG.C:/Users/Pc/IdeaProjects/TestNg/src/SeleniumGrid.xml" />
         <item itemvalue="TestNG.C:/Users/Pc/AppData/Local/Temp/Rar$DRa6500.46519/TestNG/src/SeleniumGrid1.xml" />
-        <item itemvalue="TestNG.SeleniumGrid2.test1" />
       </list>
     </recent_temporary>
   </component>
