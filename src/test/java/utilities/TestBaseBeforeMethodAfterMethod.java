@@ -16,7 +16,7 @@ import java.time.format.DateTimeFormatter;
 public abstract class TestBaseBeforeMethodAfterMethod {
 
     protected WebDriver driver;
-    protected Actions action;
+    public Actions action;
     protected String tarih;
     protected Faker faker;
     protected SoftAssert softAssert;
@@ -29,7 +29,7 @@ public abstract class TestBaseBeforeMethodAfterMethod {
         action = new Actions(driver);
         softAssert = new SoftAssert();
         driver.manage().window().maximize();
-        driver.manage().timeouts().implicitlyWait(Duration.ofSeconds(15));
+        driver.manage().timeouts().implicitlyWait(Duration.ofSeconds(10));
         LocalDateTime date = LocalDateTime.now();
         DateTimeFormatter formater = DateTimeFormatter.ofPattern("YYMMddHHmmss");
         tarih = date.format(formater);
@@ -38,6 +38,7 @@ public abstract class TestBaseBeforeMethodAfterMethod {
 
     @AfterMethod()
     public void tearDown() {
+        Driver.quitDriver();
 
 
     }
