@@ -5,17 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="509dbd81-8615-4efa-87e3-bf770ce34845" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_14_01_23__23_06__Changes_.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_14_01_23__23_06__Changes_.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/configuration.properties" beforeDir="false" afterPath="$PROJECT_DIR$/configuration.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/pages/Hatem.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/pages/Hatem.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/tests/UITests/us02_LoginUser/PositiveTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/tests/UITests/us02_LoginUser/PositiveTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/utilities/TestBaseBeforeAfterClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/utilities/TestBaseBeforeAfterClass.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/utilities/TestBaseBeforeMethodAfterMethod.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/utilities/TestBaseBeforeMethodAfterMethod.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/pages/Hatem.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/pages/Hatem.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/tests/UITests/us02_LoginUser/PositiveTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/tests/UITests/us02_LoginUser/PositiveTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/utilities/TestBaseBeforeAfterClass.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/utilities/TestBaseBeforeAfterClass.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/utilities/TestBaseBeforeMethodAfterMethod.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/utilities/TestBaseBeforeMethodAfterMethod.class" afterDir="false" />
+
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
