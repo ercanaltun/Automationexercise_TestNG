@@ -6,7 +6,8 @@
   <component name="ChangeListManager">
     <list default="true" id="509dbd81-8615-4efa-87e3-bf770ce34845" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/utilities/TestBaseBeforeAfterClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/utilities/TestBaseBeforeAfterClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/pages/Nihat.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/pages/Nihat.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/tests/UITests/us01_RegisterUser/Register.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/tests/UITests/us01_RegisterUser/Register.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -64,16 +65,7 @@
       <recent name="tests.day05" />
     </key>
   </component>
-  <component name="RunManager" selected="TestNG.NegativeTests">
-    <configuration name="C:/Users/Pc/AppData/Local/Temp/Rar$DRa6500.46519/TestNG/src/SeleniumGrid1.xml" type="TestNG" temporary="true" nameIsGenerated="true">
-      <option name="SUITE_NAME" value="$USER_HOME$/AppData/Local/Temp/Rar$DRa6500.46519/TestNG/src/SeleniumGrid1.xml" />
-      <option name="TEST_OBJECT" value="SUITE" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="TestNG.Register">
     <configuration name="C:/Users/Pc/IdeaProjects/TestNg/src/SeleniumGrid.xml" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="TestNg" />
       <option name="SUITE_NAME" value="$PROJECT_DIR$/src/SeleniumGrid.xml" />
@@ -137,13 +129,30 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Register" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="comBatch81TestNG" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tests.UITests.us01_RegisterUser.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="tests.UITests.us01_RegisterUser" />
+      <option name="MAIN_CLASS_NAME" value="tests.UITests.us01_RegisterUser.Register" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.Register" />
         <item itemvalue="TestNG.NegativeTests" />
         <item itemvalue="TestNG.NegativeTests.negative3" />
         <item itemvalue="TestNG.NegativeTests.negative1" />
         <item itemvalue="TestNG.C:/Users/Pc/IdeaProjects/TestNg/src/SeleniumGrid.xml" />
-        <item itemvalue="TestNG.C:/Users/Pc/AppData/Local/Temp/Rar$DRa6500.46519/TestNG/src/SeleniumGrid1.xml" />
       </list>
     </recent_temporary>
   </component>
