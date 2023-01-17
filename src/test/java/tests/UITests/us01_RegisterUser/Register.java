@@ -27,6 +27,8 @@ public class Register {
         nihatPage.Name.sendKeys(faker.name().name());
         actions.sendKeys(Keys.TAB).sendKeys(faker.internet().emailAddress()).
                 sendKeys(Keys.TAB).sendKeys(Keys.ENTER).perform();
+
+
     }
 
 }
